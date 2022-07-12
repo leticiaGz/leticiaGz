@@ -1,6 +1,7 @@
 ### Ola, eu sou a Letícia
 
-- 🌱 Atualmente  estudando Java e JavaScript
+- 🌱 Cursando Desenvolvimento de Sistemas (Cotuca-Unicamp)
+- 🌱 Atualmente  estudando Java, JavaScript e React
 
 <div align="center">
   <a href="https://github.com/leticiaGz">
