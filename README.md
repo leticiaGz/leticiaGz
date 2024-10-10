@@ -1,7 +1,7 @@
 ### Ola, eu sou a Letícia
 
-- 🌱 Cursando Desenvolvimento de Sistemas (Cotuca-Unicamp)
-- 🌱 Atualmente  estudando Java, JavaScript e React
+- 🌱 Cursando Analise Desenvolvimento de Sistemas (Unip)
+- 🌱 Atualmente  estudando React native, React, Html5, PlSql
 
 <div align="center">
   <a href="https://github.com/leticiaGz">
